@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.db
+*.sqlite3
+
+# Node.js
+node_modules/
+dist/
+build/
+.npm/
+
+# IDE & System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+# Models & Data
+models/*.gguf
+models/*.onnx
+data/*.db
