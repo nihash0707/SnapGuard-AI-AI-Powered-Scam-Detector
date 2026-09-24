@@ -76,13 +76,7 @@ graph TD
 
 ## 6. Installation (Windows)
 
-### Step 1: Clone or Navigate to Project
-```powershell
-git clone https://github.com/nihash0707/SnapGuard-AI-AI-Powered-Scam-Detector.git
-cd SnapGuard-AI-AI-Powered-Scam-Detector
-```
-
-### Step 2: Set Up Backend Virtual Environment
+### Step 1: Set Up Backend Virtual Environment
 ```powershell
 cd backend
 python -m venv .venv
@@ -90,7 +84,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-### Step 3: Set Up Frontend Dependencies
+### Step 2: Set Up Frontend Dependencies
 ```powershell
 # Open a second terminal window
 cd frontend
