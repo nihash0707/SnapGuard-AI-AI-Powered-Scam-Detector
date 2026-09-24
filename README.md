@@ -78,7 +78,8 @@ graph TD
 
 ### Step 1: Clone or Navigate to Project
 ```powershell
-cd "c:\Users\NIHASH\Desktop\SnapGuard AI"
+git clone https://github.com/nihash0707/SnapGuard-AI-AI-Powered-Scam-Detector.git
+cd SnapGuard-AI-AI-Powered-Scam-Detector
 ```
 
 ### Step 2: Set Up Backend Virtual Environment
